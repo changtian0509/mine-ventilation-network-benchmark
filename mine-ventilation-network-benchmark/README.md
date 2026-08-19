@@ -12,6 +12,8 @@ small fan-dominated recirculation (LPFNR) networks.
 
 Data repository: https://github.com/changtian0509/mine-ventilation-network-benchmark
 
+The original mine data are provided from the research project of the corresponding author, Jinzhang Jia (Liaoning Technical University).
+
 ## Repository structure
 
 | Path | Description |
